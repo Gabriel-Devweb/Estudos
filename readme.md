@@ -1,22 +1,28 @@
-# 💻 Desafios DIO – Lógica de Programação com JavaScript
+# 💻 Desafios de Bootcamps
 
-Repositório criado para organizar os desafios feitos durante o **Bootcamp de Lógica de Programação com JavaScript** da **DIO (Digital Innovation One)**.
+Este repositório foi criado para organizar os desafios práticos que realizei durante meus estudos em diferentes bootcamps de programação.
 
-Cada desafio está separado por pasta, numerado de forma sequencial.
+Cada pasta representa um desafio, com arquivos e um `README.md` individual explicando os detalhes do exercício, como:
+
+- Tema do desafio
+- Linguagem utilizada
+- Plataforma onde foi feito (quando necessário)
+- Links ou observações importantes
 
 ---
 
-## 📁 Estrutura
+## 📁 Estrutura do repositório
 
-desafios-dio/ ├── desafio-1/ │   └── index.js ├── desafio-2/ │   └── index.js ├── ...
+desafios-bootcamp/ ├── desafio-1/ │   ├── index.js │   └── README.md ├── desafio-2/ │   ├── index.html │   └── README.md ├── ...
 
 ---
 
-## 🛠 Ferramentas utilizadas
+## 🛠 Ferramentas utilizadas nos desafios
 
-- JavaScript
-- Git & GitHub
-- Editor de código da DIO (web.dio.me)
+- **JavaScript**
+- **HTML & CSS**
+- **Git & GitHub**
+- **VS Code / Termux / Editor Web**
 
 ---
 
@@ -24,3 +30,7 @@ desafios-dio/ ├── desafio-1/ │   └── index.js ├── desafio-2/
 
 **Gabriel Barreto**  
 🔗 [GitHub: @Gabriel-Devweb](https://github.com/Gabriel-Devweb)
+
+---
+
+📌 *Este repositório é uma forma de manter meus estudos organizados e acompanhar minha evolução na programação por meio de desafios práticos.*
