@@ -1,16 +1,16 @@
-# Repositório de Estudos PHP
+# 📚 Estudos em PHP
 
-Este repositório foi criado para organizar meus estudos da linguagem de programação PHP.
+Este repositório reúne meus **estudos e práticas** com a linguagem **PHP**.  
+Aqui organizo meus códigos, exercícios e anotações para acompanhar minha evolução como desenvolvedor.
 
-Aqui você encontrará códigos, exemplos, exercícios e anotações relacionados ao aprendizado de PHP, que me ajudarão a evoluir e aprimorar minhas habilidades com essa linguagem.
+## 📂 Conteúdo do Repositório
 
-## Conteúdo
-
-- Scripts básicos em PHP
-- Exercícios práticos
-- Projetos pequenos para fixação
-- Anotações e dicas
+- 🖥 **Scripts básicos** para aprender a sintaxe do PHP  
+- 📝 **Exercícios práticos** para fixar conceitos  
+- 🚀 **Pequenos projetos** como forma de aplicar o aprendizado  
+- 💡 **Anotações e dicas** para consulta rápida  
 
 ---
 
-Sinta-se à vontade para acompanhar meu progresso e sugerir melhorias!
+📌 **Objetivo:** Consolidar meu aprendizado e compartilhar minha jornada no PHP.  
+💬 Sinta-se à vontade para acompanhar, dar feedbacks e sugerir melhorias!
