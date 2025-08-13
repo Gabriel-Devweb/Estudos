@@ -1,36 +1,53 @@
-# 💻 Desafios de Bootcamps
+💻 Estudos de Programação
 
-Este repositório foi criado para organizar os desafios práticos que realizei durante meus estudos em diferentes bootcamps de programação.
+Este repositório foi criado para organizar meus estudos e práticas em programação.
+Cada pasta representa um conteúdo ou projeto, com arquivos e um README.md individual explicando os detalhes, como:
 
-Cada pasta representa um desafio, com arquivos e um `README.md` individual explicando os detalhes do exercício, como:
+Tema do estudo ou projeto
 
-- Tema do desafio
-- Linguagem utilizada
-- Plataforma onde foi feito (quando necessário)
-- Links ou observações importantes
+Linguagem utilizada
 
----
+Origem (bootcamp, curso, desafio, estudo próprio, etc.)
 
-## 📁 Estrutura do repositório
+Links ou observações importantes
 
-desafios-bootcamp/ ├── desafio-1/ │   ├── index.js │   └── README.md ├── desafio-2/ │   ├── index.html │   └── README.md ├── ...
+
 
 ---
 
-## 🛠 Ferramentas utilizadas nos desafios
+📁 Estrutura do repositório
 
-- **JavaScript**
-- **HTML & CSS**
-- **Git & GitHub**
-- **VS Code / Termux / Editor Web**
-
----
-
-## ✍️ Autor
-
-**Gabriel Barreto**  
-🔗 [GitHub: @Gabriel-Devweb](https://github.com/Gabriel-Devweb)
+Estudos/
+├── PHP/
+│   ├── ex001/
+│   └── Index.php
+├── PHP.md
+.       (Exemplo)
 
 ---
 
-📌 *Este repositório é uma forma de manter meus estudos organizados e acompanhar minha evolução na programação por meio de desafios práticos.*
+🛠 Ferramentas utilizadas
+
+JavaScript
+
+PHP
+
+HTML & CSS
+
+Git & GitHub
+
+VS Code / Termux / Editor Web
+
+
+
+---
+
+✍️ Autor
+
+Gabriel Barreto
+🔗 GitHub: @Gabriel-Devweb
+
+
+---
+
+📌 Este repositório é uma forma de manter meus estudos organizados e acompanhar minha evolução como programador, registrando todo o aprendizado e prática realizados.
