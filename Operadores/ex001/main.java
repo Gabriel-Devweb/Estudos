@@ -28,8 +28,12 @@ public class main {
     boolean  isDentrodaLeiMaiorQueTrinta = idade > 30 && salario >= 4612;
     boolean isDentrodaLeiMenorQueTrinta = idade < 35 && salario >= 3381;
     System.out.println("isDentrodaLeiMaiorQueTrinta "+isDentrodaLeiMaiorQueTrinta); 
-    System.out.println("isDentrodaLeiMenorQueTrinta "+isDentrodaLeiMenorQueTrinta); 
+    System.out.println("isDentrodaLeiMenorQueTrinta "+isDentrodaLeiMenorQueTrinta);
 
-    /
+    double valorTotalContaCorrente = 200;
+    double valorTotalContaPoupanca = 10000;
+    float valorPlaystation = 5000F;
+    boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupanca > valorPlaystation;
+    System.out.println("isPlaystationCincoCompravel "+isPlaystationCincoCompravel);
   }
   }
