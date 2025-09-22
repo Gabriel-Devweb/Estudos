@@ -35,5 +35,23 @@ public class main {
     float valorPlaystation = 5000F;
     boolean isPlaystationCincoCompravel = valorTotalContaCorrente > valorPlaystation || valorTotalContaPoupanca > valorPlaystation;
     System.out.println("isPlaystationCincoCompravel "+isPlaystationCincoCompravel);
+
+    // = += -= *= /= %=
+    double bonus = 1800;
+    bonus += 1000;
+    bonus -= 1000;
+    bonus *= 2;
+    bonus /= 2;
+    bonus %= 2;
+    System.out.println(bonus);
+
+    // ++ --
+    int contador = 1;
+    contador += 1; //contador = 2
+    contador++;
+    contador--;
+    int contador2 = 0;
+    System.out.println(contador);
+    System.out.println(++contador2);
   }
   }
