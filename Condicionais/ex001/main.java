@@ -5,14 +5,17 @@ public class main {
     // !
     if (isAutorizadoComprarBebida) {
       System.out.println("Autorizado a comprar bebida alcoólica");
-    }
-    if (!isAutorizadoComprarBebida) {
+    } else {
       System.out.println("Não autorizado a comprar bebida");
+      {
     }
     boolean c = true;
     if (c = false) {
       System.out.println("Detro de algo que nunca deveria ser feito");
     }
+
+
    System.out.println("Fora do if");
+  }
   }
 }
