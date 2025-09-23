@@ -52,6 +52,7 @@ public class main {
     contador--;
     int contador2 = 0;
     System.out.println(contador);
-    System.out.println(++contador2);
+    System.out.println(++contador2); 
   }
   }
+x
