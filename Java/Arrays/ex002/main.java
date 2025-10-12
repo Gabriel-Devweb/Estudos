@@ -5,11 +5,8 @@ public class main {
     // boolean false
     // String null
     String[] nome = new String[3];
-    nome[0] = "Maria";
-    nome[1] = "Gabriel";
-    nome[2] = "Ayala";
-    for (int i = 0; i < 3; i++) {
-      System.out.println(nome[1]);
-    }
+   System.out.println(nome[0]);
+   System.out.println(nome[1]);
+   System.out.println(nome[2]);
   }
 }
