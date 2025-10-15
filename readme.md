@@ -12,7 +12,7 @@ Cada pasta representa um conteúdo ou projeto, com arquivos e um **README.md** i
 
 ## 📁 Estrutura do repositório
 
-Estudos/ ├── PHP/ │   ├── ex001/ │   └── Index.php ├── PHP.md
+Estudos/ ├── Java/ │   ├── ex001/ │   └── main.java ├── Readme.md
 
 *(Exemplo de organização)*
 
@@ -21,10 +21,7 @@ Estudos/ ├── PHP/ │   ├── ex001/ │   └── Index.php ├─�
 ## 🛠 Ferramentas utilizadas
 
 - JavaScript  
-- PHP  
-- HTML & CSS  
-- Git & GitHub  
-- VS Code / Termux / Editor Web  
+- Java
 
 ---
 
